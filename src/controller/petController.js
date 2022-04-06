@@ -86,7 +86,6 @@ const findSpecificPet = async (req, res) => {
     }
   };
 
-
 module.exports = {
   home,
   adoptPet,

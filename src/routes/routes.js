@@ -14,6 +14,6 @@ router.get('/petHome',petController.home);
 router.post('/adoptPet',auth,petController.adoptPet);
 router.get('/findAllPet',petController.findAllPet);
 router.get('/findSpecificPet',petController.findSpecificPet);
-router.get('/findSpecificPetCat',petController.findSpecificPetCat);
+router.get('/findSpecificPetCat',petController.findAllPetCat);
 
 module.exports=router
