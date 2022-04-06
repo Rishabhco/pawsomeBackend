@@ -92,5 +92,5 @@ module.exports = {
   adoptPet,
   findAllPet,
   findAllPetCat,
-  findSpecificJob
+  findSpecificPet
 };
