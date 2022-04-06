@@ -6,10 +6,10 @@ Pawsome is a project that aims to provide a facility through which people who ar
 
 ## 🖱 Deployment
 
-To deploy this project run
+This project is deployed at heroku
 
 ```bash
-  npm run deploy
+  https://pawsomebackend.herokuapp.com/
 ```
 ## 🛠 Built With
 ![](./src/read.png.png)
