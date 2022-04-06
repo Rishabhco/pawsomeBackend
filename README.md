@@ -12,17 +12,12 @@ To deploy this project run
   npm run deploy
 ```
 ## 🛠 Built With
-![](./assets/read.png)
+![](./src/read.png.png)
 ## 💪🏻 Features
 
 - Interactive UI
 - Clear Walkthrough
 - Data Privacy
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## 👨‍💻Contributers
 
