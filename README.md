@@ -1,7 +1,7 @@
 
 # PawSome
-
-Pawsome is a project that aims to provide a facilty, using which people can adopt a pet or can list a pet for adoption in an efficient way.
+>Don't Buy, Adopt!
+Pawsome is a project that aims to provide a facility through which people who are looking for a pet for adoption can connect with the pets that are available for adoption. 
 
 
 ## 🖱 Deployment
@@ -12,11 +12,10 @@ To deploy this project run
   npm run deploy
 ```
 ## 🛠 Built With
-![](https://ibb.co/rpgPLgH)
+![](./assets/read.png)
 ## 💪🏻 Features
 
-- 
-- 
+- Interactive UI
 - Clear Walkthrough
 - Data Privacy
 
@@ -27,7 +26,7 @@ To deploy this project run
 
 ## 👨‍💻Contributers
 
-- [Kaushal Agarwal]()
-- [Mayank Dhankar]()
-- [Mayur Gupta]()
-- [Rishabh Agarwal]()
+- [Kaushal Agarwal](https://github.com/Kaushal-A)
+- [Mayank Dhankar](https://github.com/mayankdhnkr)
+- [Mayur Gupta](https://github.com/Mayur0307)
+- [Rishabh Agarwal](https://github.com/Rishabhco)
