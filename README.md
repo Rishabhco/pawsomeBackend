@@ -1,16 +1,15 @@
 
 # PawSome
 >Don't Buy, Adopt!
+
 Pawsome is a project that aims to provide a facility through which people who are looking for a pet for adoption can connect with the pets that are available for adoption. 
 
 
 ## 🖱 Deployment
 
 This project is deployed at heroku
+- Deployment: https://pawsomebackend.herokuapp.com/
 
-```bash
-  https://pawsomebackend.herokuapp.com/
-```
 ## 🛠 Built With
 ![](./src/read.png.png)
 ## 💪🏻 Features
