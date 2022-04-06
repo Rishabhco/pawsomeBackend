@@ -1,6 +1,6 @@
 
 # PawSome
-![logo](https://ibb.co/p0dhBPV)
+
 Pawsome is a project that aims to provide a facilty, using which people can adopt a pet or can list a pet for adoption in an efficient way.
 
 
@@ -12,7 +12,7 @@ To deploy this project run
   npm run deploy
 ```
 ## 🛠 Built With
-![](https://ibb.co/p0dhBPV)## 💪🏻 Features
+## 💪🏻 Features
 
 - 
 - 
@@ -26,7 +26,7 @@ To deploy this project run
 
 ## 👨‍💻Contributers
 
-- [Kaushal Agarwal](https://www.github.com/octokatherine)
+- [Kaushal Agarwal]()
 - [Mayank Dhankar]()
 - [Mayur Gupta]()
 - [Rishabh Agarwal]()
