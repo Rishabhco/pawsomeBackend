@@ -12,6 +12,7 @@ To deploy this project run
   npm run deploy
 ```
 ## 🛠 Built With
+![](https://ibb.co/rpgPLgH)
 ## 💪🏻 Features
 
 - 
